@@ -127,7 +127,7 @@ Open a Pull Request
 
 
 Author
-Akshat Dubey
+Tuba Momin
 
 Thank you for checking out Bean Voyage. We hope you enjoy exploring the website as much as we enjoyed creating it!
 
